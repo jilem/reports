@@ -11,6 +11,8 @@ News,
 Tech Recipes, 
 Help us
 
+
+
 Assignments: 
 
 Find examples of other web sites we can look at (Meli)
@@ -27,6 +29,8 @@ Account godaddy add user (Sole)
 
 Godaddy and wordpress hosting (Sole)
       
+
+
 
 The target of the Website are Women
 
