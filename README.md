@@ -6,19 +6,25 @@ October 11th 2014
 First Version Architecture   girlscanhack.com 
 
 Website Sections:  
-Role Model Show Room
-News
-Tech Recipes 
+Role Model Show Room,
+News,
+Tech Recipes, 
 Help us
 
 Assignments: 
 
 Find examples of other web sites we can look at (Meli)
+
 Wordpress research layout (Meli)
+
 Wordpress implement rotational bios (Meli)
+
 Music in the front page (Meli)
+
 Link the site with tumblr and twitter
+
 Account godaddy add user (Sole)
+
 Godaddy and wordpress hosting (Sole)
       
 
